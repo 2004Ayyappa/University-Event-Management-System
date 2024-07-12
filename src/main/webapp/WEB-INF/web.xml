@@ -9,7 +9,7 @@
     
     <!-- Define default welcome files -->
     <welcome-file-list>
-        <welcome-file>index.jsp</welcome-file>
+        <welcome-file>https://university-event-management-system-1.vercel.app/index.jsp</welcome-file>
     </welcome-file-list>
     
     <!-- Servlet Mapping -->
